@@ -121,7 +121,7 @@ async def start(bot: Client, m: Message):
             InlineKeyboardButton("⚡ Upload Files", callback_data="upload_files")
         ],
         [
-            InlineKeyboardButton("🔔 Channel", url="https://t.me/safalta_batc6766"),
+            InlineKeyboardButton("🔔 Channel", url="https://whatsapp.com/channel/0029VbBwIXh002TCXWoza60Y"),
             InlineKeyboardButton("👨‍💻 Developer", url="@Pandey_ji_up43_bot")
         ]
     ])
