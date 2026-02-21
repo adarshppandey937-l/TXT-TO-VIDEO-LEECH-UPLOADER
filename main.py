@@ -122,7 +122,7 @@ async def start(bot: Client, m: Message):
         ],
         [
             InlineKeyboardButton("🔔 Channel", url="https://t.me/safalta_batc6766"),
-            InlineKeyboardButton("👨‍💻 Developer", url="https://t.me/safalta_batc6766")
+            InlineKeyboardButton("👨‍💻 Developer", url="@Pandey_ji_up43_bot")
         ]
     ])
     
